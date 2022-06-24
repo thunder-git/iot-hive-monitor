@@ -5,3 +5,13 @@ The system is aimed to be installed into an apiary to monitor several related hi
 It consists on:
 - One or more hive monitors
 - One apiary bridge that will communicate with the cloud via GSM or WiFi
+
+
+## Hive Monitor
+- [ ] Deep Sleep mode
+- [ ] Auto association to Apiary Bridge
+- [ ] OTA Updatable
+
+## Apiary Bridge
+- [ ] Auto association of Hive Monitor
+- [ ] OTA Updatable
