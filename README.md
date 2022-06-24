@@ -6,7 +6,6 @@ It consists on:
 - One or more hive monitors
 - One apiary bridge that will communicate with the cloud via GSM or WiFi
 
-
 ## Hive Monitor
 - [ ] Deep Sleep mode
 - [ ] Auto association to Apiary Bridge
@@ -15,3 +14,6 @@ It consists on:
 ## Apiary Bridge
 - [ ] Auto association of Hive Monitor
 - [ ] OTA Updatable
+- [ ] Esp-now to Thingsboard via GSM
+- [ ] Esp-now to Thingsboard via WiFi
+
